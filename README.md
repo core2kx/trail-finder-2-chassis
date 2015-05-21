@@ -1,3 +1,4 @@
+![alt tag](https://raw.githubusercontent.com/core2kx/trail-finder-2-chassis/master/trail-finder-2-chassis.png)
 # Trail Finder 2 Chassis
 This is a model of the RC4WD Trail Finder 2 Chassis.  This was modeled in Sketchup 2015 and then converted into various other file formats for use in other 3D programs.
 
