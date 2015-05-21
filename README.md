@@ -7,7 +7,7 @@ Each component/piece of the chassis has been modeled as in individual object, ju
 There are sub folders for each component which contain multiple file formats.
 
 ## 3D printing
-Some of these parts can be 3D printed through various services such as Shapeways, Sculpteo, etc.  They can also be printed on other types of PLA or ABS types of printers that are commercially available.  This includes desktop sized printers.  Results will vary based on the different printer resolutions and materials used in printing.
+Some of these parts can be 3D printed through various services such as Shapeways, Sculpteo, etc.  They can also be printed on other types of PLA or ABS printers that are commercially available.  This includes desktop sized printers.  Results will vary based on the different printer resolutions and materials used in printing.
 
 ## Use of these models
 This work was done in an effort to create an open platform to model new pieces for this particular chassis.  For example a person could create a roll cage or exo cage for their Trail Finder 2.  
